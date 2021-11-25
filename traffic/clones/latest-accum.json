@@ -1,64 +1,93 @@
 {
-  "timestamp" : "2021-11-25T01:10:21Z",
+  "timestamp" : "2021-11-25T08:25:55Z",
   "count_outdated" : 15,
   "uniques_outdated" : 9,
-  "count" : 122,
-  "uniques" : 62,
+  "count" : 123,
+  "uniques" : 63,
   "clones" : [
     {
       "timestamp": "2021-11-11T00:00:00Z",
-      "count": 12,
-      "uniques": 8
+      "count": 11,
+      "count_minmax": [ 11, 11 ],
+      "uniques": 8,
+      "uniques_minmax": [ 8, 8 ]
     },
     {
       "timestamp": "2021-11-12T00:00:00Z",
       "count": 6,
-      "uniques": 4
+      "count_minmax": [ 6, 6 ],
+      "uniques": 4,
+      "uniques_minmax": [ 4, 4 ]
     },
     {
       "timestamp": "2021-11-14T00:00:00Z",
       "count": 2,
-      "uniques": 1
+      "count_minmax": [ 2, 2 ],
+      "uniques": 1,
+      "uniques_minmax": [ 1, 1 ]
     },
     {
       "timestamp": "2021-11-16T00:00:00Z",
       "count": 1,
-      "uniques": 1
+      "count_minmax": [ 1, 1 ],
+      "uniques": 1,
+      "uniques_minmax": [ 1, 1 ]
     },
     {
       "timestamp": "2021-11-18T00:00:00Z",
       "count": 4,
-      "uniques": 3
+      "count_minmax": [ 4, 4 ],
+      "uniques": 3,
+      "uniques_minmax": [ 3, 3 ]
     },
     {
       "timestamp": "2021-11-19T00:00:00Z",
       "count": 17,
-      "uniques": 7
+      "count_minmax": [ 17, 17 ],
+      "uniques": 7,
+      "uniques_minmax": [ 7, 7 ]
     },
     {
       "timestamp": "2021-11-20T00:00:00Z",
       "count": 22,
-      "uniques": 10
+      "count_minmax": [ 22, 22 ],
+      "uniques": 10,
+      "uniques_minmax": [ 10, 10 ]
     },
     {
       "timestamp": "2021-11-21T00:00:00Z",
       "count": 13,
-      "uniques": 7
+      "count_minmax": [ 13, 13 ],
+      "uniques": 7,
+      "uniques_minmax": [ 7, 7 ]
     },
     {
       "timestamp": "2021-11-22T00:00:00Z",
       "count": 6,
-      "uniques": 1
+      "count_minmax": [ 6, 6 ],
+      "uniques": 1,
+      "uniques_minmax": [ 1, 1 ]
     },
     {
       "timestamp": "2021-11-23T00:00:00Z",
       "count": 6,
-      "uniques": 1
+      "count_minmax": [ 6, 6 ],
+      "uniques": 1,
+      "uniques_minmax": [ 1, 1 ]
     },
     {
       "timestamp": "2021-11-24T00:00:00Z",
       "count": 18,
-      "uniques": 10
+      "count_minmax": [ 18, 18 ],
+      "uniques": 10,
+      "uniques_minmax": [ 10, 10 ]
+    },
+    {
+      "timestamp": "2021-11-25T00:00:00Z",
+      "count": 2,
+      "count_minmax": [ 2, 2 ],
+      "uniques": 1,
+      "uniques_minmax": [ 1, 1 ]
     }
   ]
 }
